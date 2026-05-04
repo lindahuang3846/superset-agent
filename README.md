@@ -1,6 +1,6 @@
 # Superset Security Bot
 
-An event-driven automation that detects SQL injection vulnerabilities in Apache Superset, creates GitHub issues, and dispatches Devin to fix them and open PRs — automatically.
+An event-driven automation that detects SQL injection vulnerabilities in Apache Superset, creates GitHub issues, and dispatches Devin to fix them and open PRs automatically.
 
 ## Architecture
 
